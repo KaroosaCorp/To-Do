@@ -1,27 +1,27 @@
 function App(){
   const [todos, setTodos] = React.useState([
     {
-      text: 'MIT Coding Bootcamp Module 14',
+      text: 'Learn React',
       isCompleted: false,
     },
     {
-      text: 'Make almond milk',
+      text: 'Buy flour, eggs, milk and honey',
       isCompleted: false,
     },
     {
-      text: 'Make Mush',
+      text: 'Bake bread',
       isCompleted: false,
     },
     {
-      text: 'Do Laundry',
+      text: 'Mow the Lawn',
       isCompleted: false,
     },
     {
-      text: 'Visit parents',
+      text: 'Relax!!!',
       isCompleted: false,
     },
     {
-      text: 'Have fun',
+      text: 'Watch The Witcher',
       isCompleted: false,
     }       
   ]);
